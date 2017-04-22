@@ -2,4 +2,4 @@
 Python script to access IP camera through opencv
 
 
-## IP camera
+##IP camera
